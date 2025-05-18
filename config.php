@@ -2,9 +2,9 @@
 
 $servername = "localhost";
 //Username
-$username   = "cs332t25";
+$username   = "Username";
 //Password
-$password   = "YrK9gtiS";
+$password   = "Password";
 $dbname     = "academic_records";
 
 // Create connection
