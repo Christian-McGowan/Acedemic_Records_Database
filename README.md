@@ -1,2 +1,1 @@
-# Acedemic_records_database
-Final Project in SQL
+# Spring 2025 Term Project (CPSC-332)
